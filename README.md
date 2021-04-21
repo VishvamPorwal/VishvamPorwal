@@ -2,7 +2,7 @@
 
 ## 🧔 About Me
 
-- 🔭 I’m currently working on [PharmAssist](https://github.com/Jaagrav/Recess)
+- 🔭 I’m currently working on [PharmAssist](https://github.com/VishvamPorwal/PharmAssist)
 
 - 🌱 I’m currently learning **Machine Learning**
 
