@@ -1,5 +1,3 @@
-![Vishvam Porwal's-cover](./Cover-Image.png)
-
 ## 🧔 About Me
 
 - 🔭 I’m currently working on [PharmAssist](https://github.com/VishvamPorwal/PharmAssist)
