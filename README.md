@@ -10,7 +10,7 @@
 
 [![Vishvam's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishvamPorwal&show_icons=true&theme=dark)](https://github.com/VishvamPorwal)
 
-Here are some of my projects on Github that I am proud of:
+Here are some of my recent projects on Github:
 
 [![Edukid](https://github-readme-stats.vercel.app/api/pin/?username=VishvamPorwal&repo=Edukid&show_icons=true&theme=dark)](https://github.com/VishvamPorwal/Edukid)
 [![PharmAssist](https://github-readme-stats.vercel.app/api/pin/?username=VishvamPorwal&repo=PharmAssist&show_icons=true&theme=dark)](https://github.com/VishvamPorwal/PharmAssist)
