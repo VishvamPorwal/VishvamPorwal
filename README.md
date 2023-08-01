@@ -12,7 +12,7 @@
 
 Here are some of my recent projects on Github:
 
-[![Edukid](https://github-readme-stats.vercel.app/api/pin/?username=VishvamPorwal&repo=Edukid&show_icons=true&theme=dark)](https://github.com/VishvamPorwal/Edukid)
+[![Edukid](https://github-readme-stats.vercel.app/api/pin/?username=VishvamPorwal&repo=NeuralTrace&show_icons=true&theme=dark)](https://github.com/VishvamPorwal/NeuralTrace)
 [![PharmAssist](https://github-readme-stats.vercel.app/api/pin/?username=VishvamPorwal&repo=PharmAssist&show_icons=true&theme=dark)](https://github.com/VishvamPorwal/PharmAssist)
 
 
