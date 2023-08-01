@@ -1,12 +1,8 @@
 ## 🧔 About Me
 
-- 🔭 I’m currently working on [PharmAssist](https://github.com/VishvamPorwal/PharmAssist)
-
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Web development and Machine Learning Projects**
-
-- 📫 Contact me **[here](vishvamporwal1@gmail.com)**
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 
 
