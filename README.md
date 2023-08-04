@@ -22,6 +22,7 @@ Here are some of my recent projects on Github:
 
 
 ![Skill](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white)
+![Skill](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Skill](https://img.shields.io/badge/Flask-1572B6?style=for-the-badge&logo=flask&logoColor=white)
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/Dart-1572B6?style=for-the-badge&logo=dart&logoColor=white)
