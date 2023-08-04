@@ -21,12 +21,14 @@ Here are some of my recent projects on Github:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishvamPorwal&layout=compact&show_icons=true&theme=dark)](https://github.com/VishvamPorwal/VishvamPorwal)
 
 
-![Skill](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white)
+![Skill](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Skill](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Skill](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Skill](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Skill](https://img.shields.io/badge/Flask-1572B6?style=for-the-badge&logo=flask&logoColor=white)
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/Dart-1572B6?style=for-the-badge&logo=dart&logoColor=white)
-![Skill](https://img.shields.io/badge/Flutter-1572B6?style=for-the-badge&logo=flutter&logoColor=white)
+![Skill](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Skill](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Skill](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
