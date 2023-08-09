@@ -14,6 +14,7 @@ Here are some of my recent projects on Github:
 
 [![NeuralTrace](https://github-readme-stats.vercel.app/api/pin/?username=VishvamPorwal&repo=NeuralTrace&show_icons=true&theme=dark)](https://github.com/VishvamPorwal/NeuralTrace)
 [![FuncGram](https://github-readme-stats.vercel.app/api/pin/?username=VishvamPorwal&repo=FuncGram&show_icons=true&theme=dark)](https://github.com/VishvamPorwal/FuncGram)
+[![Astronoetician](https://github-readme-stats.vercel.app/api/pin/?username=VishvamPorwal&repo=Astronoetician&show_icons=true&theme=dark)](https://github.com/VishvamPorwal/Astronoetician)
 [![PharmAssist](https://github-readme-stats.vercel.app/api/pin/?username=VishvamPorwal&repo=PharmAssist&show_icons=true&theme=dark)](https://github.com/VishvamPorwal/PharmAssist)
 
 
